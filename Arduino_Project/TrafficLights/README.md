@@ -28,5 +28,6 @@ This folder contains two Arduino-based traffic light systems developed as part o
 
 🔗 Tinkercad Simulations
 Simple Version on Tinkercad
-
+https://www.tinkercad.com/things/g3KUkOvhGCf-semaforo-vsimples?sharecode=yPYV5Q7itJuGma04rzWlx3F_K8guXiuEtGiBiHkX_tk
 Complex Version on Tinkercad
+https://www.tinkercad.com/things/4PPBprsqBDd-semaforo-vcomplexa
