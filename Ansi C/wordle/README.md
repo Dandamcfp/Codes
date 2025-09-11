@@ -1,0 +1,1 @@
+This is a simple Wordle-style game developed just for fun on February 16th, 2025, using ANSI C. The game challenges the player to guess a hidden word within a limited number of attempts, providing feedback on correct letters and positions—just like the classic Wordle experience.
