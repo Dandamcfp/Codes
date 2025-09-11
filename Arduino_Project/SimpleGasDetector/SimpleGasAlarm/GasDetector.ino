@@ -1,5 +1,5 @@
 // C++ code
-//
+//Created by *Daniela Pinheiro *Pedro Fagundes *Samuel Buitrago
 int motor = 12;
 int sensor = 0;
 int buzzer = 11;
